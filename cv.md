@@ -1,12 +1,25 @@
 # VALERYIA PADASHEUKA
+![VALERYIAPADASHEUKAIMG]("FOTO")
+
 **********************
 ## 1. CONTACTS
-# * Location 
+### * Location 
 Minsk, Belarus
-# * Phone
+### * Phone
 +375 33 66-33-408
-# * E-mail
+### * E-mail
 valalpod@gmail.com
-# * Github
+### * Github
 valalpod
+======================
+
+## 2. ABOUT ME
+
+
+## 3. EDUCATION
+
+## 4. CODE EXAMPLE
+
+## 5. LANGUAGE
+
 
