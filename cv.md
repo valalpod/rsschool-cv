@@ -1,6 +1,6 @@
 # VALERYIA PADASHEUKA
 
-![Foto_Valeryia](image/Foto_Valeryia.jpg)
+![Foto_Valeryia](/image/Foto_Valeryia.png)
 
 **********************
 ## 1. CONTACTS
