@@ -10,6 +10,7 @@
 
 ## 2. ABOUT ME
 
+Extremely motivated for career change goal
 
 ## 3. EDUCATION
 Belarusian National Technical University (2003-2008)
