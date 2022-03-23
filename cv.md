@@ -1,5 +1,7 @@
 # VALERYIA PADASHEUKA
 
+![Foto_Valeryia](image/Foto_Valeryia.jpg)
+
 **********************
 ## 1. CONTACTS
 * **Location** Minsk, Belarus
