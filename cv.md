@@ -1,5 +1,5 @@
 # VALERYIA PADASHEUKA
-![VALERYIAPADASHEUKAIMG]("FOTO")
+![VALERYIAPADASHEUKAIMG]https://disk.yandex.by/i/i82bHHJyZAFxrw("FOTO")
 
 **********************
 ## 1. CONTACTS
@@ -17,9 +17,19 @@ valalpod
 
 
 ## 3. EDUCATION
+Belarusian National Technical University (2003-2008)
+Faculty: Instrument Engineering
+Department: Design and production of devices and appliances
+Specialty: Mechanical and electromechanical devices
 
-## 4. CODE EXAMPLE
+## 4. WORK EXPERIENCE 
+GROUP OF COMPANIES "BETONWERK" www.bpsm.by (2008-present)
+*2008-2011: Design Engineer
+*2011-2020: Commercial Director
+*2020-present: Partner
 
-## 5. LANGUAGE
+## 5. CODE EXAMPLE
+
+## 6. LANGUAGE
 
 
