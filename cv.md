@@ -33,8 +33,12 @@ GROUP OF COMPANIES "BETONWERK" www.bpsm.by (2008-present)
 ## 5. CODE EXAMPLE
 
 ```
+function multipl(a, b) {
+	return a*b;
+}
 
-
+let result = multipl(3, 6);
+alert( result );
 
 ```
 
